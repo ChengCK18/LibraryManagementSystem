@@ -2,8 +2,9 @@
 First 'big' school project
 
 This program is just a prototype, it uses text files to store data. This program is far from a complete Library Management System.
-To run this program, just simply get all the files into a same folder and use command prompt to execute the program.
->> python OrionGUI.py
+To run this program, just simply get all the files into a same folder and use command prompt to execute the program. Using the command,
+
+python OrionGUI.py
 
 This program is written using Python 2.7
 
