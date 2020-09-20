@@ -1,4 +1,4 @@
-# library_management_system
+# library-management-system
 
 This is my first programming project.
 This program is just a prototype and it uses text files to store data. This program is far from a complete library management system.
